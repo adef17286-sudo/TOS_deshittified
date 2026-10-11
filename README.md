@@ -9,6 +9,6 @@ And ofcource companies would absolutely want you to read their tos, they even sa
 
 yes, that long chunk of text that can be found inside their TOS
 
-so lets go and change that tos ever so often, surely they'll love that
+lets go and change that tos ever so often, surely they'll love that
 
 anyway, i asked ai to do me some summize, on some TOS of some sites, it actually came out more readable
