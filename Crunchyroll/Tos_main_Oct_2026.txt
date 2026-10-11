@@ -1,0 +1,88 @@
+**The surprising stuff**
+
+- **Your "household" is the limit.** Sharing your account with anyone outside the people living at your address counts as a *material breach*. That includes a friend, a partner who lives elsewhere, or family in another home. They can block devices and terminate your account, and if they terminate you for this, no refund.
+- **They can ban you for any reason, or no reason.** Termination "with or without notice" isn't limited to breaking rules.
+- **You can't sue them in court.** Disputes go to binding arbitration (through NAM), with no jury and no class actions. You must first send a written notice and hold a phone call, then wait 60 days. You *can* opt out of arbitration, but only within 30 days of first use or accepting an update, by writing to them at legal@crunchyroll.com or by post. Small claims court and IP cases are exceptions.
+- **Mass complaints get batched.** If 100+ similar claims are filed through the same law firm, they're processed in groups of 100 with one arbitrator.
+- **You have one year to sue, then you're barred.** That's shorter than the legal deadline in many places.
+- **Their liability cap is tiny.** The most they'll owe you is what you paid in the last 6 months or $50, whichever is greater.
+- **VPNs are banned.** Any technique that hides your location is "strictly prohibited", even though the service is geo-restricted. It also covers buying things in the store.
+- **You can't make fan stuff from their content.** That includes montages, mash-ups, wallpapers, desktop themes, and greeting cards, even free ones.
+- **You can't build an index of their catalogue.** Creating or advertising an index of any significant portion of the content needs written permission.
+- **They won't remind you your trial is ending.** You're auto-charged when it converts, and no notice is required unless the law says so. You may also lose free-trial eligibility if you ever cancelled before.
+- **Failed payments get retried on other cards.** If your main card fails, they can charge any other card saved on your account, in an order they pick.
+- **The "primary account holder" is liable for everyone.** That covers teen profiles, household members, and anyone you let in. You may even owe *them* legal costs from someone else using your account.
+- **Manga is rented, not owned.** Even paid purchases are a license. If the content gets removed, your license ends automatically. Downloads expire and need periodic online check-ins.
+- **They don't take your ideas.** Any fan fiction, concepts, or artwork you send them is treated as non-confidential and they can use it for free, forever, with no credit or payment.
+- **Feedback is theirs too.** By sending feedback, you give them a permanent, irrevocable license to use it.
+- **Algorithms decide what you see.** Recommendations may use AI, and you may not notice when things are personalized.
+- **Automated tools are banned.** Scrapers, bots, mods, and similar tools are prohibited, including ones for personal use.
+
+**Medium interest**
+
+- **EU residents** get a 14-day cancellation window with a prorated refund, and local consumer law overrides the terms where they conflict.
+- **Teen profiles (13-17)** require a parent or guardian, who is solely responsible for judging whether content is appropriate, regardless of age ratings.
+- **Pausing** is only for monthly plans, not during trials, and must be done 24 hours before billing.
+- **Price changes** take effect next billing period, and they can cancel orders over pricing errors.
+- **Third-party subscriptions** (Apple, carriers, etc.) are handled by those companies, not Crunchyroll.
+- **Pricing and features can change anytime**, and continuing to use the service counts as accepting the new terms.
+
+**Stuff you'd probably guess**
+
+- You must be 18+ to make an account.
+- Content is licensed for personal, non-commercial use only.
+- No copying, recording, ripping, or stream-capturing, and no bypassing DRM.
+- No reverse engineering, hacking, or overloading their systems.
+- Subscriptions auto-renew until you cancel, and cancelling keeps access until the period ends.
+- Everything is provided "as is" with no guarantee of uptime, quality, or captions.
+- Some content may be offensive or trigger sensitivities, and that's on you.
+- They follow US export and sanctions laws.
+- New York law governs.
+- DMCA copyright complaints go to their LA address.
+- English version wins over translations.
+
+If you tell me what Here's the Crunchyroll Terms of Service in plain English, with the surprising stuff first.
+
+**The surprising stuff**
+
+- **Your "household" is the limit.** Sharing your account with anyone outside the people living at your address counts as a *material breach*. That includes a friend, a partner who lives elsewhere, or family in another home. They can block devices and terminate your account, and if they terminate you for this, no refund.
+- **They can ban you for any reason, or no reason.** Termination "with or without notice" isn't limited to breaking rules.
+- **You can't sue them in court.** Disputes go to binding arbitration (through NAM), with no jury and no class actions. You must first send a written notice and hold a phone call, then wait 60 days. You *can* opt out of arbitration, but only within 30 days of first use or accepting an update, by writing to them at legal@crunchyroll.com or by post. Small claims court and IP cases are exceptions.
+- **Mass complaints get batched.** If 100+ similar claims are filed through the same law firm, they're processed in groups of 100 with one arbitrator.
+- **You have one year to sue, then you're barred.** That's shorter than the legal deadline in many places.
+- **Their liability cap is tiny.** The most they'll owe you is what you paid in the last 6 months or $50, whichever is greater.
+- **VPNs are banned.** Any technique that hides your location is "strictly prohibited", even though the service is geo-restricted. It also covers buying things in the store.
+- **You can't make fan stuff from their content.** That includes montages, mash-ups, wallpapers, desktop themes, and greeting cards, even free ones.
+- **You can't build an index of their catalogue.** Creating or advertising an index of any significant portion of the content needs written permission.
+- **They won't remind you your trial is ending.** You're auto-charged when it converts, and no notice is required unless the law says so. You may also lose free-trial eligibility if you ever cancelled before.
+- **Failed payments get retried on other cards.** If your main card fails, they can charge any other card saved on your account, in an order they pick.
+- **The "primary account holder" is liable for everyone.** That covers teen profiles, household members, and anyone you let in. You may even owe *them* legal costs from someone else using your account.
+- **Manga is rented, not owned.** Even paid purchases are a license. If the content gets removed, your license ends automatically. Downloads expire and need periodic online check-ins.
+- **They don't take your ideas.** Any fan fiction, concepts, or artwork you send them is treated as non-confidential and they can use it for free, forever, with no credit or payment.
+- **Feedback is theirs too.** By sending feedback, you give them a permanent, irrevocable license to use it.
+- **Algorithms decide what you see.** Recommendations may use AI, and you may not notice when things are personalized.
+- **Automated tools are banned.** Scrapers, bots, mods, and similar tools are prohibited, including ones for personal use.
+
+**Medium interest**
+
+- **EU residents** get a 14-day cancellation window with a prorated refund, and local consumer law overrides the terms where they conflict.
+- **Teen profiles (13-17)** require a parent or guardian, who is solely responsible for judging whether content is appropriate, regardless of age ratings.
+- **Pausing** is only for monthly plans, not during trials, and must be done 24 hours before billing.
+- **Price changes** take effect next billing period, and they can cancel orders over pricing errors.
+- **Third-party subscriptions** (Apple, carriers, etc.) are handled by those companies, not Crunchyroll.
+- **Pricing and features can change anytime**, and continuing to use the service counts as accepting the new terms.
+
+**Stuff you'd probably guess**
+
+- You must be 18+ to make an account.
+- Content is licensed for personal, non-commercial use only.
+- No copying, recording, ripping, or stream-capturing, and no bypassing DRM.
+- No reverse engineering, hacking, or overloading their systems.
+- Subscriptions auto-renew until you cancel, and cancelling keeps access until the period ends.
+- Everything is provided "as is" with no guarantee of uptime, quality, or captions.
+- Some content may be offensive or trigger sensitivities, and that's on you.
+- They follow US export and sanctions laws.
+- New York law governs.
+- DMCA copyright complaints go to their LA address.
+- English version wins over translations.
+ 
