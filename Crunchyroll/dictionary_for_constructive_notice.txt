@@ -1,0 +1,314 @@
+CRUNCHYROLL TOS - THE "WE SAID SO" GLOSSARY
+===========================================
+The obvious, boring, or filler terms that were left out of the summary.
+Each one is stated in the terms so Crunchyroll can later say "it was in the ToS".
+Format:  TERM -- what the ToS says about it (paraphrased)
+
+
+--- WHO COUNTS AS WHAT ---
+
+"Services" -- defined as basically everything: website, streaming, apps, products, and any "related features". Nothing is left outside the word.
+
+"You" -- the primary account holder, plus your heirs, assigns and successors. If you sign up on someone else's behalf, you claim you can bind them, and they are bound too.
+
+Agreeing -- happens by creating an account, clicking "I agree", or just using any Service. No signature needed.
+
+Authorized Users -- anyone using a profile on your account. You answer for everything they do, including what they watch and buy.
+
+Teen Profile -- for ages 13-17 only, under a parent or guardian. Not meant for under-13s. The parent promises it is only used by a 13+ minor and consents to it.
+
+Supplemental terms -- extra rules (sweepstakes, contests, games, store sales, SMS) that win over the main Terms if the two conflict.
+
+Incorporated by reference -- extra terms count as part of this agreement even though they are not written in it.
+
+
+--- ACCOUNT STUFF NOBODY NEEDS TOLD ---
+
+Accurate information -- you "affirm" that everything you gave them is true, complete and current, and must update it promptly. They may check it themselves or through other parties.
+
+Password -- keep it secret. They will never ask you to reveal it to a representative.
+
+Your activity -- you are solely responsible for everything on your account, and they may assume any message from your account was you.
+
+Unauthorized use -- you should tell them if you suspect it, but telling them does not make you safe from being liable for their losses.
+
+Material breach -- the label put on account sharing and exceeding device or stream limits. It is the "serious violation" wording that lets them terminate.
+
+Sole discretion -- appears all over the terms. It means they decide, and they do not have to justify it. Used for: analyzing your account use, judging violations, trial eligibility, price errors, changing the Services.
+
+Technical measures -- they may use technology to enforce device and stream limits.
+
+
+--- MONEY WORDS ---
+
+Fee -- the current subscription price, plus taxes and other charges for your territory.
+
+Automatic renewal -- continues at the stated frequency until you cancel. Charged "without requiring your prior approval" where the law allows.
+
+Payment Method -- you authorize them to charge it. They may place an authorization hold to check it works.
+
+Uncollected amounts -- if you do not update your card or cancel in time, you are still responsible for money they could not collect.
+
+Lack of payment -- if no valid payment method is on file when a payment is due, they may restrict, suspend or cancel.
+
+Taxes -- usually included in the price, vary by billing address, and they may not be able to warn you about tax changes in advance.
+
+Modified benefits -- they may add, change or remove subscription benefits. If you do not cancel, you are "deemed to have accepted" it.
+
+Pricing error -- if the stated price is wrong in their view, they do not have to honor it, even for an accepted order. You get a refund or the chance to cancel.
+
+Unauthorized resellers -- purchases through them are not honored and may be cancelled without notice.
+
+Trial Subscription -- length is shown at sign-up. Needs a valid payment method. They decide who is eligible and may revoke the offer.
+
+Promotional offers -- follow whatever terms were shown with the offer. No refunds, adjustments or price protection if a better promotion comes later.
+
+Third-Party Subscription Provider -- Apple, carriers, TV or internet providers. They handle your billing, cancellation and refunds, not Crunchyroll.
+
+Cancellation -- stops only future charges. Access continues to the end of the paid period. You lose any service credits, referral credits and unused benefits.
+
+Statutory Cancellation Period -- the 14-day EU withdrawal right. Done by submitting a ticket in the Help Center.
+
+Paused State -- starts after your current billing cycle ends. You can resume any time.
+
+
+--- LICENSE AND OWNERSHIP ---
+
+License -- limited, non-transferable, non-exclusive, revocable and personal. For non-commercial use. "At your own risk".
+
+Ownership -- everything in the Services belongs to Crunchyroll and its licensors: software, images, text, logos, trademarks, music, video and more. Using it does not transfer any rights to you.
+
+Protected by law -- they point out the Services are covered by US and foreign copyright, trademark and trade secret law.
+
+Substantial effort -- the terms say the Services were put together with a lot of time, effort and money and are valuable intellectual property.
+
+Public performance -- you may not use the Services for unauthorized public performance or commercial exhibition.
+
+
+--- "YOUR PROBLEM" CLAUSES ---
+
+Compatible device -- you must have the device, software and fast internet. Quality depends on location, bandwidth and device.
+
+No guarantee -- no promise of any resolution, viewing quality or uninterrupted availability.
+
+Dropped support -- they may stop supporting devices, operating systems or app versions for technical, security or legal reasons.
+
+Accessibility -- captions and subtitles are not on all content, languages or devices, and are not warranted to be error-free.
+
+Offensive content -- you may find content offensive, indecent or explicit, and you "assume the risk".
+
+Genres and descriptions -- only suggestions for navigation. They do not promise you will agree with them.
+
+Edited content -- content may be edited, reformatted or modified from the original.
+
+Flashing lights -- some content may trigger sensitivities such as photosensitive epilepsy. They give warnings where required by law but do not promise to catch everything.
+
+Your responsibility to check -- ratings, synopses and tags are for you to read to decide if content suits you and your account users.
+
+Location access -- they may require you to enable location on your device. You agree to use the Services only where they are officially offered.
+
+
+--- THE LONG "DON'T" LIST (EXTRA ITEMS) ---
+
+Notices -- you may not remove or alter copyright or trademark notices on the Services.
+
+Multiple accounts / misrepresentation -- no creating several accounts, no forged identifiers or headers.
+
+Viruses -- no submitting data containing viruses, trojans or similar code.
+
+Framing and in-line links -- you may not make content available through frames or in-line links, or stream it through another app.
+
+Commercial exploitation -- no building or running a business with the Services, profit or not. Includes using text, graphics, logos, stills and so on.
+
+Security testing -- no probing, scanning or testing their systems or networks.
+
+System impairment -- no damaging, disabling or overloading the Services, including denial-of-service attacks.
+
+Privacy violation -- no collecting user information in breach of the privacy policy, or to send unsolicited bulk messages.
+
+Fraud -- no fraudulent, defamatory, obscene, abusive or unlawful conduct, or encouraging a crime.
+
+General violation -- breaking any other posted guideline or policy, or interfering with others' enjoyment.
+
+Attempts -- trying to do any of the above counts too.
+
+Enforcement -- they may investigate, prosecute "to the fullest extent of the law" and work with law enforcement.
+
+
+--- MANGA AND GAMES ---
+
+Digital Content -- manga, comics, graphic novels, plus their text, artwork and metadata.
+
+Reading Period -- the time you have an active, paid subscription. Your access exists only then.
+
+Subscription model -- explicitly "not a purchase model". You never own the content.
+
+Removal -- content may be added or removed at the discretion of content owners or Crunchyroll. Your license ends automatically for anything removed. No promise any title stays available for any length of time.
+
+Anti-copying design -- the manga reader is "designed to prevent" copying, downloading, saving and printing.
+
+One-time purchase -- a purchase buys the right to view that chapter or volume digitally, not the content itself. Non-refundable except where mandatory consumer law says otherwise.
+
+Third-Party Beneficiaries -- publishers and creators can enforce these terms directly against you.
+
+Games -- have their own separate Game Terms that apply on top.
+
+Downloaded Content -- licensed, not sold. Limited to your active subscription, a maximum number of devices, expiry rules, time-outs and regular online checks. You may not keep it after the window closes.
+
+
+--- THIRD PARTIES AND PERSONALIZATION ---
+
+Third-Party Sites -- links, ads and tracking technologies (cookies, pixels) may appear. Not controlled or endorsed by them, and not their responsibility, including any personal information you give those sites.
+
+Joint Services -- offered together with a partner. Covered by these Terms plus the partner's own terms.
+
+Personalization -- recommendations, curated collections and ordering are based on your activity, preferences and device information. May use algorithms and AI. May not be obvious to you. Where the law allows you can object through account settings.
+
+
+--- FEEDBACK AND SUBMISSIONS ---
+
+Feedback -- you confirm you have the right to share it, it breaks nobody's rights, and it holds no one else's confidential information.
+
+No confidentiality -- they owe you none for feedback, and may already have something similar in development.
+
+Moral rights -- you waive moral rights claims on your feedback.
+
+Survives termination -- the feedback section stays in force even after your account ends.
+
+Unsolicited Submissions -- scripts, storylines, characters, artwork, fan fiction, games, merchandise ideas and so on are "not accepted". If you send them anyway they are non-confidential and non-proprietary.
+
+No relationship -- sending submissions creates no confidential, employment, partnership or similar relationship.
+
+Screening -- they may use automated tools or human reviewers to filter or ignore submissions, and are not required to keep, return or acknowledge them.
+
+Similar content -- if they use something like your idea, made in-house or by others, they owe you nothing.
+
+
+--- COPYRIGHT COMPLAINTS (DMCA) ---
+
+Notice contents -- your name, contact details, the work, where the copy is, a good-faith statement, a signature, and a statement under penalty of perjury.
+
+Lawyer suggestion -- you are encouraged to read the law or consult an attorney first.
+
+Misrepresentation -- you may be liable for damages, costs and attorney fees if you knowingly misstate that something is infringing.
+
+Passed along -- your notice may be given to the person responsible for the allegedly infringing material.
+
+
+--- CHANGES ---
+
+Changing the terms -- at their "reasonable and sole discretion", at any time. You are responsible for checking for changes. If a change is material they notify you "as required by law". Continuing to use the Services means acceptance. If you disagree, you must stop using the Services.
+
+Changing the Services -- they may modify, suspend or discontinue any part, with or without notice. That covers content, features, pricing and access methods.
+
+SMS -- they may text you subject to consent law. Separate SMS Terms apply.
+
+
+--- DISPUTE PROCESS DETAILS ---
+
+Dispute -- defined as anything arising out of, relating to, or connected with the Terms or your use of the Services.
+
+Notice of Dispute -- written, individual, with your name, a detailed description and the relief you want. You also give the email address tied to your account.
+
+Informal conference -- a phone call, one per person. Lawyers may join, but you must attend too unless the other side says in writing you need not.
+
+60 days -- time to settle before arbitration becomes available.
+
+Tolling -- deadlines and time limits pause while informal resolution is going on.
+
+Court decides prerequisites -- a court, not the arbitrator, can decide whether you completed the informal step.
+
+Old and future claims -- arbitration covers claims from before this agreement existed and after it ends.
+
+FAA -- the Federal Arbitration Act is the exclusive law on interpreting and enforcing the arbitration clause.
+
+Arbitrator decides arbitrability -- the arbitrator, not a court, decides whether a claim is arbitrable and whether the terms are valid.
+
+Sanctions -- the arbitrator may penalize frivolous claims or bad-faith behavior.
+
+Jury waiver -- in capital letters. Both sides give up the right to a jury trial.
+
+Location -- US residents: your county (or nearest NAM location). Crunchyroll-initiated cases, Canada and everyone outside the US: New York County, unless the arbitrator finds that too burdensome.
+
+Submit to New York courts -- for compelling, staying or enforcing arbitration, you accept New York jurisdiction and service by US mail, and waive venue defenses.
+
+Class waiver -- individual claims only. Consolidation only with their written consent.
+
+Severability exception -- if the class waiver or batch provision is found invalid, the entire arbitration agreement is void, not just that piece.
+
+Court exceptions -- IP protection, small claims, and declaratory judgments about time limits or small-claims eligibility.
+
+Under $10,000 -- handled on documents alone unless you seek an injunction or declaration, or both agree otherwise.
+
+Dispositive motions -- the arbitrator may allow them.
+
+Confidential and sealed -- proceedings and records are private except to confirm the award in court.
+
+Fees -- if arbitration is prohibitively costly compared to court, they pay fees above $250. Not if the claim is frivolous. You pay your own attorney unless rules or law say otherwise. NAM can change fee amounts or timing as long as it does not raise your costs.
+
+Opt-out -- within 30 days, in writing, with your name, address, account email and a clear statement. If you opt out, they are not bound by arbitration either.
+
+Changes to this section -- 30 days' notice. Applies to claims not yet filed unless you opt out.
+
+
+--- LEGAL PROTECTION FOR THEM ---
+
+Indemnity -- you cover their losses, legal costs and investigations caused by your violations, or by acts involving publicity rights, defamation or invasion of privacy. They can take over the defense and you must cooperate.
+
+Release for user disputes -- if you have a fight with another user, you release Crunchyroll from claims "known or unknown".
+
+California Civil Code 1542 -- a waiver of unknown claims. Californians waive it by name, everyone else waives the equivalent rule from their own jurisdiction.
+
+As is -- the Services come "as is", "as available" and "with all faults". No promise of uptime, performance or bug fixes.
+
+Disclaimer of warranties -- all warranties disclaimed, including merchantability, fitness for a purpose, title and non-infringement. Mandatory consumer guarantees are not removed.
+
+No damages -- no liability for direct, indirect, punitive, incidental, special or consequential damages, or lost profits, under any legal theory, even if warned.
+
+Carve-outs -- the cap does not cover death, personal injury, fraud, gross negligence or willful misconduct, where the law forbids excluding them.
+
+One-year time limit -- applies to both sides.
+
+Duration -- the agreement starts when you access the Services and lasts until either side ends it.
+
+Survival -- sections 3, 4, 5, 8, 9 and 11-19 keep applying after termination.
+
+
+--- GENERAL BOILERPLATE ---
+
+Export controls -- no sending the Services to embargoed countries or to anyone on the US Treasury or Commerce lists. You certify you are not such a person.
+
+Electronic notices -- email or a posting on the Services counts as "in writing".
+
+Governing law -- New York law, ignoring conflict-of-law rules. Non-arbitrated disputes go to New York County courts, and you waive "inconvenient forum" objections.
+
+Entire agreement -- these terms and everything they reference replace any earlier agreements.
+
+Severability -- if one part is struck down the rest stays.
+
+No waiver -- if they do not enforce something now, they can still enforce it later.
+
+Assignment -- they may transfer their rights freely. You may not without written consent.
+
+Force majeure -- they are not in breach for failures caused by things beyond their control.
+
+No third-party beneficiaries -- except where the terms say otherwise (see the manga publishers above).
+
+English prevails -- translations are for convenience. If they differ, English wins.
+
+
+--- INTERNATIONAL USERS ---
+
+Local law -- mandatory local consumer, subscription, data and media laws win over the Terms only where they conflict.
+
+No local presence -- the terms are not meant to create a local company, establishment or service-provider relationship in your country.
+
+Payment methods and taxes -- vary by country. VAT, GST and digital services taxes may be added. Carrier, device and app store bundles bring their own terms.
+
+Geolocation -- IP address and similar technology may be used to decide what you can access.
+
+Local differences -- content, ratings, accessibility, features, offers and plans may vary by country and may change for legal, business or technical reasons.
+
+Reporting -- they may add complaint and reporting processes (EU Digital Services Act style) and handle government or regulator requests.
+
+Data transfers -- your data may be processed outside your country, including in the US, with safeguards such as standard contractual clauses where required. Data residency laws may affect features.
